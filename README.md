@@ -1,0 +1,1 @@
+# qtum-gen-wordwallet
