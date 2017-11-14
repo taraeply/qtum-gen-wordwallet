@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lib/slf4j-api-1.7.20.jar lib/guava-18.0.jar lib/jsr305-2.0
+ .1.jar lib/hamcrest-core-1.3.jar lib/okhttp-2.7.2.jar lib/protobuf-ja
+ va-2.6.1.jar lib/okio-1.6.0.jar lib/orchid-1.2.1.jar lib/rxjava-1.2.2
+ .jar lib/jcip-annotations-1.0.jar lib/junit-4.12.jar lib/scrypt-1.4.0
+ .jar lib/bitcoinj-core-0.14.5.jar lib/core-1.51.0.0.jar
+Main-Class: com.qtum.walletkeystore.Main
+
