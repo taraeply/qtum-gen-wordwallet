@@ -48,12 +48,6 @@ importprivkey "KxiQoTZZnTkXaznJNEQ3gPgqUEyHUDumczUWxEY1TEUDpX6XstjA" "MobileWall
 
 # What if it helps? Please support me.
 ### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-
-# Questions
-### telegram : https://t.me/taraeply
-### e-mail : taraeply@gmail.com
 
 <hr/>
 
@@ -101,12 +95,6 @@ importprivkey "KxiQoTZZnTkXaznJNEQ3gPgqUEyHUDumczUWxEY1TEUDpX6XstjA" "MobileWall
 
 # 도움이 되셨다면? 후원해 주세요!
 ### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-### *QTUM : QWWVeDoz2HV63dmdagAUpqpJeVtvNw7dF1*
-
-# 문의사항
-### telegram : https://t.me/taraeply
-### e-mail : taraeply@gmail.com
 
 ![Create Mobile Wallet](./commend.png) 
 ![IOS Mobile Wallet](./ios_wallet.jpg) 
