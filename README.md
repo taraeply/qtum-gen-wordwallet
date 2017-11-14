@@ -1,3 +1,9 @@
+## **Warning / 경고**
+### *This source code does not store or transmit wallet information.*
+### *Please disconnect from the Internet to create a secure wallet.*
+### *본 소스코드에는 지갑 정보를 저장하거나 전송하지 않습니다.*
+### *안전한 지갑생성을 위해 인터넷의 접속을 끊고 생성하시기 바랍니다.*
+
 # Qtum Mobile Wallet Creater & Show Prive Key
 * It was built using the QTUM Android wallet source code to solve the synchronization problem between mobile wallet and PC wallet.
 * Create a QTUM Mobile Wallet or check the PrivateKey on your QTUM mobile wallet.
